@@ -1,4 +1,0 @@
-E:\Limup.OlaMundo\OlaMundo.Models\bin\Debug\OlaMundo.Models.dll
-E:\Limup.OlaMundo\OlaMundo.Models\bin\Debug\OlaMundo.Models.pdb
-E:\Limup.OlaMundo\OlaMundo.Models\obj\Debug\OlaMundo.Models.dll
-E:\Limup.OlaMundo\OlaMundo.Models\obj\Debug\OlaMundo.Models.pdb

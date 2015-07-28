@@ -1,7 +1,0 @@
-E:\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Service.dll
-E:\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Service.pdb
-E:\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Models.dll
-E:\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Models.pdb
-E:\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.csprojResolveAssemblyReference.cache
-E:\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.dll
-E:\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.pdb
