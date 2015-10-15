@@ -5,3 +5,10 @@ E:\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Models.pdb
 E:\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.csprojResolveAssemblyReference.cache
 E:\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.dll
 E:\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.pdb
+C:\Users\arnaldo.lima\Documents\GitHubVisualStudio\Windows-Communication-Foundation\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Service.dll
+C:\Users\arnaldo.lima\Documents\GitHubVisualStudio\Windows-Communication-Foundation\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Service.pdb
+C:\Users\arnaldo.lima\Documents\GitHubVisualStudio\Windows-Communication-Foundation\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Models.dll
+C:\Users\arnaldo.lima\Documents\GitHubVisualStudio\Windows-Communication-Foundation\Limup.OlaMundo\OlaMundo.Service\bin\Debug\OlaMundo.Models.pdb
+C:\Users\arnaldo.lima\Documents\GitHubVisualStudio\Windows-Communication-Foundation\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.csprojResolveAssemblyReference.cache
+C:\Users\arnaldo.lima\Documents\GitHubVisualStudio\Windows-Communication-Foundation\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.dll
+C:\Users\arnaldo.lima\Documents\GitHubVisualStudio\Windows-Communication-Foundation\Limup.OlaMundo\OlaMundo.Service\obj\Debug\OlaMundo.Service.pdb
