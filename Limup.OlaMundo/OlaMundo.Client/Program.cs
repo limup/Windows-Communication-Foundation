@@ -11,13 +11,15 @@ namespace OlaMundo.Client
     {
         static void Main(string[] args)
         {
-            using (ServiceHost client = new ServiceHost(typeof(Service.Service), new Uri[] {}))
+            using (ServiceOlaMundo.ServiceClient proxy = new ServiceOlaMundo.ServiceClient())
             {
-                client.Open();
-                Console.WriteLine("Serviço rodando...");
-                Console.WriteLine("Tecle  para finalizar.");
+                proxy.Open();
+                Console.WriteLine("Serviço conectado...");
+                Console.WriteLine("Entre com o usuário:");
+
+                Console.WriteLine(proxy.TrataOlaMundo(Console.ReadLine()));
                 Console.ReadKey();
-                client.Close();
+                proxy.Close();
             }
         }
     }
